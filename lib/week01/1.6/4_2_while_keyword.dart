@@ -1,10 +1,9 @@
 void main() {
   int total = 0;
 
-  while (total < 10) {
-    // total값이 10보다 작으면 계속 실행
+  do {
     total += 1;
-  }
+  } while (total < 10);
 
   print(total);
 }
