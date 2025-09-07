@@ -10,5 +10,6 @@ void main() {
 
   /// 슬래시 세 개를 사용하면
   /// 문서 주석을 작성할 수 있습니다.
-  /// BartDoc
+  /// BartDoc이나 안ㄷ로이드 스튜디오 같은
+  /// IDE에서 문서(Documentation)로 인식합니다.
 }
